@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: (Image courtesy google fit)
-datePublished: '2016-03-25T17:10:57.651Z'
-dateModified: '2016-03-25T17:10:32.711Z'
+datePublished: '2016-03-25T17:13:41.087Z'
+dateModified: '2016-03-25T17:13:32.198Z'
 title: Experimenting with flat design
 author: []
+sourcePath: _posts/2016-03-25-experimenting-with-flat-design.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-experimenting-with-flat-design.md
-published: true
 url: experimenting-with-flat-design/index.html
 _type: Article
 
 ---
 # Experimenting with flat design
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80ce9611-6f0f-4fdc-a319-d93343dd2a4f.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/740ecadc-f435-4018-a187-c2a1797e44a4.jpg)
 
 (Image courtesy google fit)
 
